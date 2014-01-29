@@ -1,5 +1,4 @@
 <?php
-	include_once "database.php";
 	require_once "twilio-php-master/Services/Twilio.php";
 
 	$sid = "YOUR_TWILIO_ACCOUNT_SID";
