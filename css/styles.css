@@ -1,0 +1,15 @@
+body {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.imgKitten {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 160px;
+}
+
+#btnSend {
+	width: 100%;
+}
